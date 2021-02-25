@@ -1,0 +1,26 @@
+{
+  "name": "vue-three-cef-fix",
+  "version": "1.0.0",
+  "description": "hacky fix for vue-next issue #2897",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrazzIe/vue-three-cef-fix.git"
+  },
+  "keywords": [
+    "hacky",
+    "fix",
+    "2897",
+    "vue",
+    "runtime-dom"
+  ],
+  "author": "Fraser Watt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrazzIe/vue-three-cef-fix/issues"
+  },
+  "homepage": "https://github.com/FrazzIe/vue-three-cef-fix#readme"
+}
